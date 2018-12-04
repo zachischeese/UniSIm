@@ -6,6 +6,7 @@ Use the links above to download it.
 
 # Download UniSim
 To download UniSim, click [here](https://github.com/zachischeese/UniSIm/releases/download/1/UniSim.zip).
+To get the source, please wait. I'm going to up load it at home (I'm literally typing this in a café).
 
 ## UniSim Users Guide
 
