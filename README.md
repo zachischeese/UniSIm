@@ -2,11 +2,14 @@
 
 This is a universe expansion simulator for use in the classroom.
 
-# UniSim Users Guide
+Use the links above to download it.
+
+
+## UniSim Users Guide
 
 Thank you for downloading UniSim! UniSim is a basic simulation off the expansion of the universe for use in classrooms.
 
-## Launching UniSim
+### Launching UniSim
 
 Launch UniSim by double clicking the icon. You will be presented with a resolution and quality settings dialog.
 
@@ -16,7 +19,7 @@ When you are ready to launch the simulation, click Play.
 
 UniSim is also available on the web. It will automatically launch without any user interaction when the page is visited.
 
-## Interacting with the Simulation
+### Interacting with the Simulation
 
 This is the simulation interface. The camera is attached to one of the galaxies spawned. The view in the bottom left is similar to the balloon model, where the observer sits outside of the universe and looks inwards. The galaxy that the main camera is attached to is highlighted in red in this smaller view.
 
@@ -34,7 +37,7 @@ UniSim web works identically to the desktop version. To take UniSim web full scr
 
 Note: UniSim web will perform worse than UniSim desktop. This is a technical limitation of WebGL.
 
-## Troubleshooting
+### Troubleshooting
 
 This simulation is built on the Unity3D game engine. As a result, some school anti-virus or software restriction programs may pick it up as a game, and the simulation may not launch. Speak to your IT technicians or service providers and ask for an exception to be added for UniSim. You may still be able to access UniSim Web even if the main desktop version is blocked.
 
@@ -42,13 +45,13 @@ If you get an error asking for UniSim to be placed with a folder named “UniSim
 
 If the simulation is not smooth, jitters or is slow, you may not have a powerful enough computer to run it smoothly. Try reducing the graphics quality settings and the resolution. If the resolution and quality configuration window does not open on startup, try holding the ALT (Windows) or OPTION (MacOS) key down. The configuration window should now show up.
 
-## Contact
+### Contact
 
 If you want to contact me for any reason regarding the simulator, I am on Twitter. My handle is @ElaTheDeveloper. If you find the software useful, please consider donating. My donations page is at [Streamlabs](https://streamlabs.com/elathedeveloper). Every penny enables me to continue creating software like this.
 
 I hope you enjoy using UniSim and hope it helps you in your classroom!
 
-## Licence
+# Licence
 UniSim
 Written by Eleanor Ashton
 Built on Unity3D
