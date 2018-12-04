@@ -4,6 +4,8 @@ This is a universe expansion simulator for use in the classroom.
 
 Use the links above to download it.
 
+# Download UniSim
+To download UniSim, click [here](https://github.com/zachischeese/UniSIm/releases/download/1/UniSim.zip).
 
 ## UniSim Users Guide
 
