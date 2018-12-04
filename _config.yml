@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 title: UniSim
 description: A universe expansion simulator for classrooms.
-zip_url: https://github.com/zachischeese/UniSIm/releases/download/1/UniSim.zip
+
+github:
+  zip_url: https://github.com/zachischeese/UniSIm/releases/download/1/UniSim.zip
